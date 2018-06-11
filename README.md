@@ -1,5 +1,7 @@
 # Example Package
 
-This is a simple example package. You can use
-[Github-flavored Markdown](http://https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Packaging Python Projects
+https://packaging.python.org/tutorials/packaging-projects/
+
+Using TestPyPI
+https://packaging.python.org/guides/using-testpypi/
